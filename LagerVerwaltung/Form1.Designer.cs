@@ -65,7 +65,7 @@
             // button_hinzufugen
             // 
             this.button_hinzufugen.Enabled = false;
-            this.button_hinzufugen.Location = new System.Drawing.Point(408, 138);
+            this.button_hinzufugen.Location = new System.Drawing.Point(408, 140);
             this.button_hinzufugen.Name = "button_hinzufugen";
             this.button_hinzufugen.Size = new System.Drawing.Size(75, 23);
             this.button_hinzufugen.TabIndex = 4;
